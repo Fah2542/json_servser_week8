@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Firstname": "www",
+      "LastName": "www",
+      "Email": "55555",
+      "Telephone": "552",
+      "Salary": "2111"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
